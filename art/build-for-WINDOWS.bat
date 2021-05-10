@@ -1,0 +1,6 @@
+@echo off
+cd ..
+echo BUILDING GAME
+lime build windows -release
+echo PLEASE CHECK IF ANY ERRORS HAVE OCCURED. IF NOT, FEEL FREE TO CLOSE THE TERMINAL / CMD / WHATEVER SHIT YOU'RE USING
+pause
