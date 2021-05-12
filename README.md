@@ -1,6 +1,7 @@
 ![KadeEngineLogo](https://user-images.githubusercontent.com/26305836/110529589-4b4eb600-80ce-11eb-9c44-e899118b0bf0.png)
 
-**Download the latest release [here](https://github.com/KadeDev/Kade-Engine/releases/latest)**
+This version of Friday Night Funkin' is actually based on **Kade Engine V1.4**, therefore all of the credit goes to KadeDev, mainly for making modding very easy in FNF.
+**You can download the latest release of Kade Engine [here](https://github.com/KadeDev/Kade-Engine/releases/latest)**
 
 ![image](https://user-images.githubusercontent.com/26305836/110532077-3c1d3780-80d1-11eb-8348-0e63d5c0f4f1.png)
 
@@ -11,9 +12,9 @@
 ![image](https://user-images.githubusercontent.com/26305836/110532204-63740480-80d1-11eb-9641-bf5a641e6d77.png)
 
 
-# Friday Night Funkin Kade Engine
+# Friday Night Funkin' Plus, Based on Kade Engine
 
-This is the repository for Friday Night Funkin' Kade Engine, a game originally made for Ludum Dare 47 "Stuck In a Loop". And a completely reworked engine.
+This is the repository for Friday Night Funkin'+, a game originally made for Ludum Dare 47 "Stuck In a Loop". And a completely reworked engine alongside some improvements.
 
 Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
 Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
@@ -24,6 +25,10 @@ Mod Page: https://gamebanana.com/gamefiles/16761
 ## What is Kade Engine?
 
 Kade Engine is an engine rework of the OG games engine. Simply put, we give you some great new features while also giving you the latest GitHub features.
+
+## What is Friday Night Funkin' Plus?
+
+FNF+, or just the Plus Engine, is a fork of Kade Engine 1.4 which adds things that usually do not come with the main game, nor Kade Engine.
 
 ## Features
 
@@ -57,6 +62,25 @@ The features that Kade Engine implements are:
 - Latest FNF Github Features
 
 *Have you ever seen a feature shown in the GitHub repo, and you don't know how to build the game? Well, features from there get ported into here, and then we can add them into this mod and build it for you!*
+
+- Additional Accuracy Ratings
+
+*Tired of having only 'Shit', 'Bad', 'Good' and 'Sick'? No? Too bad, it's included anyways.*
+New ratings now include the old 4, and the new 3; *'OK', 'Marvelous' and 'Perfect'.* Inspiration? roblox fucking games which remade fnf haha
+
+- Remade Combo systems
+
+Now, whenever you get a combo of 10 or more, you gain extra points, and the multiplier keeps growing as long as you keep that combo up.
+Got a combo of 50 or more? The ratings will now show the noice shit.
+
+- Perfect Run
+
+A perfect run is where you are getting only 'Perfect' ratings. The colors are different, you get a nice (PFC) tag, etc. Enjoy the 100.0% accuracy as well.
+
+- Custom Healthbar
+
+Ever noticed how FNF only has Red and Green on it's healthbar? Well, no more! Regardless of if you're making a mod or not, you can change the healthbar ~~not any~~ easier than before. ~~no really, it wasn't that hard to change, why didnt anyone think about this~~
+
 
 **HUGE NOTICE**
 
